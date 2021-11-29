@@ -2,5 +2,10 @@
 <mutations>
     <category Name="Physical">
         <mutation Name="Frost Breath" Cost="3" MaxSelected="1" Class="ck_FrostBreath" Exclusions="" Code="c1"></mutation>
+        <!-- <mutation Name="Corrosive Breath" Cost="3" MaxSelected="1" Class="ck_CorrosiveBreath" Exclusions="" Code="c1"></mutation>
+        <mutation Name="Confusion Breath" Cost="3" MaxSelected="1" Class="ck_ConfusionBreath" Exclusions="" Code="c1"></mutation>
+        <mutation Name="Poison Breath" Cost="3" MaxSelected="1" Class="ck_PosionBreath" Exclusions="" Code="c1"></mutation>
+        <mutation Name="Sleep Breath" Cost="3" MaxSelected="1" Class="ck_FrostBreath" Exclusions="" Code="c1"></mutation>
+        <mutation Name="Fire Breath" Cost="3" MaxSelected="1" Class="ck_FrostBreath" Exclusions="" Code="c1"></mutation> -->
     </category>
 </mutations>
